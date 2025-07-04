@@ -80,12 +80,15 @@ javac Main.java model/*.java service/*.java
 java Main
 ```
 
-#Example of the output
+# 📦 Example of the Output
+
+```text
 ** Shipment notice **
 2x Domty Cheese 250g
 1x Edita Biscuits 400g
 1x LG TV 7000g
 Total package weight 7.9kg
+
 ** Checkout receipt **
 2x Domty Cheese 120
 1x Edita Biscuits 6
@@ -96,4 +99,5 @@ Subtotal 13726
 Shipping 553
 Amount 14279
 Balance 20221
+
 
