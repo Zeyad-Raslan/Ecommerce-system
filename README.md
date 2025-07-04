@@ -72,3 +72,8 @@ ecommerce/
 git clone https://github.com/your-username/egyptian-ecommerce-java.git
 cd egyptian-ecommerce-java
 
+2. **Compile**
+```bash
+javac Main.java model/*.java service/*.java
+
+
