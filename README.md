@@ -66,14 +66,16 @@ ecommerce/
 
 ## 🚀 How to Run
 
-1. **Clone the repository**
-
 ```bash
+# 1. Clone the repository
 git clone https://github.com/your-username/egyptian-ecommerce-java.git
 cd egyptian-ecommerce-java
 
-2. **Compile**
-```bash
+# 2. Compile the project
 javac Main.java model/*.java service/*.java
+
+# 3. Run the program
+java Main
+
 
 
