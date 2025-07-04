@@ -100,4 +100,10 @@ Shipping 553
 Amount 14279
 Balance 20221
 
+```
+## 📚 Technologies
+
+- **Java 8+**
+- **OOP best practices**
+- **No frameworks required**
 
