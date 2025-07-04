@@ -46,19 +46,21 @@ A professional, object-oriented Java-based e-commerce system designed to simulat
 ---
 
 ## 🏗️ Project Structure
+
+```text
 ecommerce/
 ├── Main.java
 ├── model/
-│ ├── Product.java
-│ ├── ExpirableProduct.java
-│ ├── ShippableProduct.java
-│ ├── Shippable.java
-│ ├── CartItem.java
-│ ├── Cart.java
-│ ├── Customer.java
+│   ├── Product.java
+│   ├── ExpirableProduct.java
+│   ├── ShippableProduct.java
+│   ├── Shippable.java
+│   ├── CartItem.java
+│   ├── Cart.java
+│   ├── Customer.java
 ├── service/
-│ ├── CheckoutService.java
-│ ├── ShippingService.java
+│   ├── CheckoutService.java
+│   ├── ShippingService.java
 
 ---
 
