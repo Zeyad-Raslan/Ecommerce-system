@@ -62,10 +62,10 @@ ecommerce/
 │   ├── CheckoutService.java
 │   ├── ShippingService.java
 ```
+---
 
-## 🚀 How to Run
+# 🚀 How to Run
 
-```bash
 # 1. Clone the repository
 git clone https://github.com/your-username/egyptian-ecommerce-java.git
 cd egyptian-ecommerce-java
@@ -75,6 +75,7 @@ javac Main.java model/*.java service/*.java
 
 # 3. Run the program
 java Main
+
 
 
 
